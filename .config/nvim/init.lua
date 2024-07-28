@@ -1,0 +1,2 @@
+-- Core
+require("nvim.core")
